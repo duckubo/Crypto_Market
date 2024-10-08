@@ -1,0 +1,18 @@
+.edit-portfolio .list {
+  margin-top: 1rem;
+}
+
+.edit-portfolio .list-item--active {
+  background-color: rgba(0, 0, 0, .05);
+}
+
+.edit-portfolio-item {
+  display: flex;
+}
+
+.edit-portfolio-item span {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1;
+}

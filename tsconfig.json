@@ -1,0 +1,26 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": false,
+    "declarationMap": false,
+    "target": "es2015",
+    "module": "es2015",
+    "lib": [
+      "es2015",
+      "es2016",
+      "dom"
+    ],
+    "declaration": false,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "jsx": "preserve",
+    "noResolve": false,
+    "preserveSymlinks": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowSyntheticDefaultImports": true,
+  }
+}
